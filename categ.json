@@ -1,0 +1,86 @@
+{
+  "Automatización": [
+    "Interruptores"
+  ],
+  "Clavijas y contactos industriales": [
+    "Placas y contactos"
+  ],
+  "Conductores": [
+    "Baja Tensión",
+    "Media Tensión",
+    "Telecomunicación"
+  ],
+  "Distribución": [
+    "Cables y conductores",
+    "Componentes de protección"
+  ],
+  "Distribución control y motores": [
+    "Arrancadores",
+    "Calidad de la energía",
+    "Canalización",
+    "Centros de Carga",
+    "Comercial",
+    "Componentes de protección",
+    "Detectores y sensores industriales",
+    "Envolventes",
+    "Equipos de medición y monitores",
+    "Industrial",
+    "Interruptores",
+    "Motores",
+    "Residencial",
+    "Tableros",
+    "Transformadores"
+  ],
+  "Extractores": [
+    "Residencial"
+  ],
+  "Herramientas": [
+    "Cintas",
+    "Medición",
+    "Pinzas",
+    "Portaherramientas",
+    "Varios"
+  ],
+  "Iluminación": [
+    "Control",
+    "Empotrables",
+    "Focos",
+    "Iluminación Exterior",
+    "Iluminación Interior",
+    "Iluminación Urbana",
+    "Plafones Iluminados",
+    "Residencial"
+  ],
+  "Media Tensión": [
+    "Distribución Aérea",
+    "Distribución subterránea"
+  ],
+  "Residencial": [
+    "Control de movimiento",
+    "Focos",
+    "Iluminación Exterior",
+    "Iluminación Interior",
+    "Placas y contactos",
+    "Residencial"
+  ],
+  "SCHNEIDER ELECTRIC": [
+    "Arrancadores",
+    "Centros de Carga",
+    "Comercial",
+    "Componentes de protección",
+    "De control",
+    "Industrial",
+    "Interruptores",
+    "Placas y contactos",
+    "Residencial",
+    "Tableros"
+  ],
+  "Transformadores": [
+    "De control",
+    "Secos"
+  ],
+  "Tubería y canalización": [
+    "Accesorios de Tuberia y Canalizacion",
+    "Tubería"
+  ]
+}
